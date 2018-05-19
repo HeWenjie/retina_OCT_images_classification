@@ -10,4 +10,4 @@ divide_dataset.py - dividing data sets into training sets and test sets.
 
 # Graphical Abstract
 
-![](https://github.com/HeWenjie/retina_OCT_images_classification/tree/master/images/Graphical Abstract.png)
+![](https://github.com/HeWenjie/retina_OCT_images_classification/tree/master/images/Graphical_Abstract.png)
